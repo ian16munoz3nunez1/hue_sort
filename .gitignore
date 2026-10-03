@@ -1,6 +1,7 @@
 3d/*.blend1
 3d/*.stl
 bot/__pycache__/
+bot/data/
 doc/*.aux
 doc/*.log
 doc/*.out
@@ -8,4 +9,3 @@ doc/*.pdf
 puenteH/fp-info-cache
 puenteH/puenteH.kicad_prl
 puenteH/puenteH-backups/
-bot/data/
